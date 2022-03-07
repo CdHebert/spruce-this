@@ -1,0 +1,7 @@
+.svg-header{
+    display: flex;
+}
+
+.svg-header img {
+    width: 50%
+}
