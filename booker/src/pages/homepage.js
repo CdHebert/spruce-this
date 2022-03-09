@@ -2,7 +2,7 @@ import React from 'react'
 // import Header from '../components/Header'
 const Home = () => {
 return(
-    <section>
+    <section className='booking-page'>
         <h1>Bookings</h1>
     <div className='info-block'>
         <h2>Customer</h2>
