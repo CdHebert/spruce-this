@@ -1,0 +1,7 @@
+book-btn {
+    width: 100%;
+    background-color: goldenrod;
+	border: 2px solid darkgoldenrod;
+	color: rgb(3,0,165);
+	border-radius: 5px;
+}

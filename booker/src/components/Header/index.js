@@ -4,7 +4,7 @@ import './style.css'
 const Header = () => {
 
     return (
-        <div className='svg-header'>
+        <div className='svg-header '>
             <img src={Logo} alt='spruce logo' />
         </div>
     )
